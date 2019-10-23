@@ -172,6 +172,7 @@ or at least read this note: http://i.imgur.com/7C0ws9e.gif
     left: 0;
     right: 0;
     top: 0;
+    background-color: rgba(20, 12, 12, 0.733);
     bottom: 0;
     overflow-x: hidden;
     overflow-y: auto;

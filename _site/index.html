@@ -1,5 +1,3 @@
----
----
 <!DOCTYPE html>
 <html lang="en">
 
@@ -88,23 +86,27 @@
         </div>
 
         <div class="row">
-          {% for speaker in site.speakers %}
+          
           <div class="col-lg-4 col-md-6">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid">
+                <img src="assets/img/oorjit.jpg" alt="Oorjit Chowdhary" class="img-fluid">
               </div>
-              <h3>{{ speaker.name }}</h3>
+              <h3>Oorjit Chowdhary</h3>
               <div class="social stars">
-                {% for link in speaker.links %}
-                <a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a>
-                {% endfor %}
+                
+                <a href="https://www.facebook.com/oorjitt"><i class="fa fa-facebook-official"></i></a>
+                
+                <a href="https://instagram.com/oorjitt.c"><i class="fa fa-instagram"></i></a>
+                
               </div>
-              <p class="prof">{{ speaker.profession }}</p>
-              <p>{{ speaker.content | markdownify }}</p>
+              <p class="prof">Jobless</p>
+              <p><p>Hey, I’m a 15 year old technophile from Delhi NCR, India with a knack for product development. I enjoy doing web development and am currently learning Android. When I’m not coding, you may find me playing drums or football with my mates.
+Feel free to contact me on any social media :D</p>
+</p>
             </div>
           </div>
-          {% endfor %}
+          
         </div>
 
       </div>
@@ -118,21 +120,23 @@
         </div>
 
         <div class="row">
-          {% for member in site.team %}
+          
           <div class="col-lg-3 col-md-6">
             <div class="speaker">
-              <img src="assets/img/{{ member.image }}" alt="{{ member.name }}" class="img-fluid">
+              <img src="assets/img/oorjit.jpg" alt="Oorjit Chowdhary" class="img-fluid">
               <div class="details">
-                <h3>{{ member.name }}</h3>
+                <h3>Oorjit Chowdhary</h3>
                 <div class="social">
-                    {% for link in member.links %}
-                    <a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a>
-                    {% endfor %}
+                    
+                    <a href="https://www.facebook.com/oorjitt"><i class="fa fa-facebook-official"></i></a>
+                    
+                    <a href="https://instagram.com/oorjitt.c"><i class="fa fa-instagram"></i></a>
+                    
                 </div>
               </div>
             </div>
           </div>
-          {% endfor %}
+          
         </div>
       </div>
     </section>

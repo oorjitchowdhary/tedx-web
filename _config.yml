@@ -1,0 +1,5 @@
+collections:
+  speakers:
+    sort_by: name
+  team:
+    sort_by: name
