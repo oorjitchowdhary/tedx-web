@@ -1,11 +1,7 @@
-@font-face {
-  src: url('../lib/SF-Pro-Display.otf');
-  font-family: 'SF Pro Display', sans-serif;
-}
 body {
   background: #fff;
   color: #2f3138;
-  font-family: 'SF Pro Display';
+  font-family: 'Lexend Deca', sans-serif;
 }
 
 a {
@@ -472,6 +468,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #intro h1 span {
   color: #e62b1e;
+  letter-spacing: -3px;
 }
 
 #intro p {
@@ -616,8 +613,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   margin-bottom: 30px;
   border-radius: 3px;
-  padding: 10px 30px;
-  padding-right: 50px;
+  padding: 20px 30px;
+  padding-right: 20px;
   border: 1px solid #e9edfb;
 }
 
@@ -635,7 +632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #speakers .speaker .details h3 {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: 550;
   text-align: left;
   margin-bottom: 0 !important;
 }
@@ -667,6 +664,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
+}
+
+#about .details {
+  margin: 10px 25px;
 }
 
 #about .details .social {
