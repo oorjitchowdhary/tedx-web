@@ -761,7 +761,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #members p {
-  padding: 0 20px;
+  padding: 0;
   margin-bottom: 20px;
   color: #060c22;
   font-size: 15px;
