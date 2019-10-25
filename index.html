@@ -87,20 +87,21 @@
         </div>
 
         <div class="row">
+          <div class="card-columns">
           {% for speaker in site.speakers %}
-          <div class="col-lg-4 col-md-6">
-            <div class="member">
-              <div class="member-img">
+          <div class="card">
+            <div class="card-body">
+              <!--<div class="member-img">
                 <img src="assets/img/{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid">
-              </div>
-              <h3>{{ speaker.name }}</h3>
-              <div class="social stars">
+              </div>-->
+              <h5 class="card-title">{{ speaker.name }}</h5>
+              <h6 class="card-subtitle">{{ speaker.profession }}</p>
+              <p class="card-text">{{ speaker.content | markdownify }}</p>
                 {% for link in speaker.links %}
-                <a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a>
+                <a href="{{ link.url }}" class="card-link">
+                  <span class="fa fa-{{ link.icon }}"></span>
+                </a>
                 {% endfor %}
-              </div>
-              <p class="prof">{{ speaker.profession }}</p>
-              <p>{{ speaker.content | markdownify }}</p>
             </div>
           </div>
           {% endfor %}
