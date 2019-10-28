@@ -1,6 +1,6 @@
 ---
 name: Rachit Gupta
-image: oorjit.jpg
+image: rachit.jpg
 links:
     -
         icon: facebook-official
