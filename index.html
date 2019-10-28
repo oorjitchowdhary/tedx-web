@@ -43,12 +43,12 @@
     <div class="intro-container wow fadeIn">
       <h1 class="mb-4 pb-0"><span>TEDx</span>Youth@AISG46</h1>
       <p class="mb-4 pb-0">22<sup>nd</sup> November, 2019</p>
-      <a href="https://www.youtube.com/watch?v=6KMGhUo36As&feature=youtu.be" class="venobox play-btn mb-4" data-vbtype="video"
-        data-autoplay="true"></a>
+      <a href="https://www.youtube.com/watch?v=6KMGhUo36As&feature=youtu.be" class="venobox play-btn mb-4"
+        data-vbtype="video" data-autoplay="true"></a>
     </div>
   </section>
-  
-    <!--<section id="about" class="wow fadeIn">
+
+  <section id="about" class="wow fadeIn">
       <div class="container">
         <div class="section-header">
           <h2>About</h2>
@@ -62,93 +62,99 @@
           <div class="col-md-6">
             <div class="details">
               <h2>Why not?</h2>
-              <p>Voluptatem perferendis sed assumenda voluptatibus. Laudantium molestiae sint. Doloremque odio dolore
-                dolore sit. Quae labore alias ea omnis ex expedita sapiente molestias atque. Optio voluptas et.</p>
+              <p>TEDx 2019 revolves around the theme <strong>why not</strong> which aims at bringing about a change in the conventional mindsets of the audience who ask themselves “Why” all the time, but fail to ask “Why not".</p>
 
-              <p>Aboriosam inventore dolorem inventore nam est esse. Aperiam voluptatem nisi molestias laborum ut. Porro
-                dignissimos eum. Tempore dolores minus unde est voluptatum incidunt ut aperiam.</p>
+              <p>Humans possess the priceless gift of thought, logic, reason and rationality: something which makes us truly unique, and capable of shifting and transforming the world.</p>
+              
+              <p>Our past is an evidence of rebellious change makers who refused to accept the traditional ways of the world and had the courage to question thereby bringing about a change, creating a present and future full of opportunities.</p>
 
-              <p>Et dolore blanditiis officiis non quod id possimus. Optio non commodi alias sint culpa sapiente nihil
-                ipsa magnam. Qui eum alias provident omnis incidunt aut. Eius et officia corrupti omnis error vel quia
-                omnis velit. In qui debitis autem aperiam voluptates unde sunt et facilis.</p>
+              <p>This year, we aim to harness these precious gifts and present our audience with compelling, and thought provoking questions.</p>
             </div>
           </div>
 
         </div>
-      </div>
-
-    </section>-->
-
-    <section id="members" class="section-with-bg wow fadeInUp">
-
-      <div class="container mt-4">
-        <div class="section-header">
-          <h2>Speakers</h2>
-        </div>
-
-        <div class="mt-4">
-          <div class="card-columns">
-          {% for speaker in site.speakers %}
-          <div class="card">
-            <div class="card-body">
-              <!--<div class="member-img">
-                <img src="assets/img/{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid">
-              </div>-->
-              <h5 class="card-title mb-1">{{ speaker.name }}</h5>
-              <h6 class="card-subtitle text-muted mb-2 d-inline-block">{{ speaker.profession }}</h6>
-              <p class="card-text">{{ speaker.content | markdownify }}</p>
-                {% for link in speaker.links %}
-                <a href="{{ link.url }}" class="card-link">
-                  <span class="fa fa-{{ link.icon }}"></span>
-                </a>
-                {% endfor %}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-
       </div>
 
     </section>
 
-    <!--<section id="speakers" class="wow fadeInUp">
-      <div class="container">
-        <div class="section-header">
-          <h2>The Team</h2>
-        </div>
+  <section id="members" class="section-with-bg wow fadeInUp">
 
-        <div class="row">
-          {% for member in site.team %}
-          <div class="col-lg-3 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/{{ member.image }}" alt="{{ member.name }}" class="img-fluid">
-              <div class="details">
-                <h3>{{ member.name }}</h3>
-                <div class="social">
-                    {% for link in member.links %}
-                    <a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a>
-                    {% endfor %}
-                </div>
-              </div>
+    <div class="container mt-4">
+      <div class="section-header">
+        <h2>Speakers</h2>
+      </div>
+
+      <div class="mt-4">
+        <div class="card-columns">
+          {% for speaker in site.speakers %}
+          <div class="card">
+              <img src="assets/img/{{ speaker.image }}" alt="{{ speaker.name }}" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title">{{ speaker.name }}</h5>
+              <h6 class="card-subtitle text-muted">{{ speaker.profession }}</h6>
+              <p class="card-text">{{ speaker.content | markdownify }}</p>
+              {% for link in speaker.links %}
+              <a href="{{ link.url }}" class="card-link">
+                <span class="fa fa-{{ link.icon }}"></span>
+              </a>
+              {% endfor %}
             </div>
           </div>
           {% endfor %}
         </div>
       </div>
-    </section>-->
 
-    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+  </section>
 
-    <script src="assets/lib/jquery/jquery.min.js"></script>
-    <script src="assets/lib/jquery/jquery-migrate.min.js"></script>
-    <script src="assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/lib/easing/easing.min.js"></script>
-    <script src="assets/lib/superfish/hoverIntent.js"></script>
-    <script src="assets/lib/superfish/superfish.min.js"></script>
-    <script src="assets/lib/wow/wow.min.js"></script>
-    <script src="assets/lib/venobox/venobox.min.js"></script>
-    <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="assets/js/main.js"></script>
+  <section id="speakers" class="wow fadeInUp">
+      <div class="container mt-4">
+        <div class="section-header">
+          <h2>The Team</h2>
+        </div>
+         <div class="mt-4">
+          <div class="row">
+          {% assign ordered_team = site.team | sort:"number" %}
+          {% for member in ordered_team %}
+          <div class="col-md-4 contains-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="d-inline-block">
+                  <h5 class="card-title">{{ member.name }}</h5>
+                  <h6 class="card-subtitle text-muted">{{ member.designation }}</h6>
+                    <!--{% for link in member.links %}
+                    <a href="{{ link.url }}" class="card-link">
+                      <span class="fa fa-{{ link.icon }}"></span>
+                    </a>
+                    {% endfor %}-->
+              </div>
+              <div class="d-inline-block pull-right card-image">
+                <img src="assets/img/{{ member.image }}" alt="{{ member.name }}" class="img-fluid">
+              </div>
+            </div>
+          </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <footer id="footer">
+        Made with love, by <a href="https://techsyndicate.github.io">Tech Syndicate</a>
+    </footer>
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <script src="assets/lib/jquery/jquery.min.js"></script>
+  <script src="assets/lib/jquery/jquery-migrate.min.js"></script>
+  <script src="assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/lib/easing/easing.min.js"></script>
+  <script src="assets/lib/superfish/hoverIntent.js"></script>
+  <script src="assets/lib/superfish/superfish.min.js"></script>
+  <script src="assets/lib/wow/wow.min.js"></script>
+  <script src="assets/lib/venobox/venobox.min.js"></script>
+  <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>
