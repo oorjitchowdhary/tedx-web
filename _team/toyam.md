@@ -2,6 +2,7 @@
 name: Toyam Khanna
 image: oorjit.jpg
 designation: Designation
+number: 15
 links:
     -
         icon: facebook-official

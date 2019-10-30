@@ -2,6 +2,7 @@
 name: Rachit Gupta
 image: rachit.jpg
 designation: Designation
+number: 16
 links:
     -
         icon: facebook-official

@@ -2,6 +2,7 @@
 name: Laxya Pahuja
 image: laxya.jpg
 designation: Designation
+number: 11
 links:
     -
         icon: facebook-official
