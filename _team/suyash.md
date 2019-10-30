@@ -1,6 +1,7 @@
 ---
 name: Suyash Mittal
 image: oorjit.jpg
+designation: Designation
 links:
     -
         icon: facebook-official

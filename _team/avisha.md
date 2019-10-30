@@ -1,6 +1,7 @@
 ---
 name: Avisha Dhiman
 image: oorjit.jpg
+designation: Designation
 links:
     -
         icon: facebook-official

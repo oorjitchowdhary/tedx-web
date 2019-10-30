@@ -1,7 +1,7 @@
 ---
 name: Anwesshaa Dattagupta
 profession: Classical Singer
-image: oorjit.jpg
+image: anwesshaa-dattagupta.jpg
 links:
   -
     icon: facebook-official

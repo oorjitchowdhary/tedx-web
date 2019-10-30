@@ -1,6 +1,7 @@
 ---
 name: Ribhav Sharma
-image: oorjit.jpg
+image: ribhav.jpeg
+designation: Designation
 links:
     -
         icon: facebook-official

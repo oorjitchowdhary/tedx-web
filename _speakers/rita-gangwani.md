@@ -1,7 +1,7 @@
 ---
 name: Rita Gangwani
 profession: Entrepreneur
-image: oorjit.jpg
+image: rita-gangwani.jpg
 links:
   -
     icon: facebook-official

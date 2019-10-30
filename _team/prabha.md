@@ -1,6 +1,7 @@
 ---
 name: Prabha Jha
 image: oorjit.jpg
+designation: Designation
 links:
     -
         icon: facebook-official

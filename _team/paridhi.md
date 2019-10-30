@@ -1,6 +1,7 @@
 ---
 name: Paridhi Bisht
 image: oorjit.jpg
+designation: Designation
 links:
     -
         icon: facebook-official

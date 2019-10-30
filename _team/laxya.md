@@ -1,6 +1,7 @@
 ---
 name: Laxya Pahuja
-image: oorjit.jpg
+image: laxya.jpg
+designation: Designation
 links:
     -
         icon: facebook-official

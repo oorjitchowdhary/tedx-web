@@ -1,6 +1,6 @@
 ---
 name: Mitul Balhara
-image: oorjit.jpg
+image: mitul.jpg
 designation: Media Head
 number: 6
 links:
