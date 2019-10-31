@@ -6,5 +6,5 @@ number: 20
 links:
     -
         icon: instagram
-        url: https://instagram.com/-jayajha-
+        url: https://instagram.com/_jayajha_
 ---
