@@ -1,8 +1,8 @@
 ---
 name: Paridhi Bisht
 image: oorjit.jpg
-designation: Designation
-number: 14
+designation: Art
+number: 12
 links:
     -
         icon: facebook-official

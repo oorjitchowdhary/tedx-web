@@ -1,8 +1,8 @@
 ---
 name: Rachit Gupta
 image: rachit.jpg
-designation: Designation
-number: 16
+designation: Logistics
+number: 18
 links:
     -
         icon: facebook-official

@@ -1,8 +1,8 @@
 ---
 name: Aditya Pathak
 image: aditya.jpg
-designation: Designation
-number: 21
+designation: Logistics
+number: 15
 links:
     -
         icon: instagram

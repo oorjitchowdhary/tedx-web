@@ -1,8 +1,8 @@
 ---
 name: Avisha Dhiman
 image: avisha.jpg
-designation: Designation
-number: 20
+designation: Logistics
+number: 16
 links:
     -
         icon: instagram

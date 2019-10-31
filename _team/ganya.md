@@ -1,8 +1,8 @@
 ---
 name: Ganya Dua
 image: ganya.jpeg
-designation: Designation
-number: 10
+designation: Logistics
+number: 14
 links:
     -
         icon: instagram

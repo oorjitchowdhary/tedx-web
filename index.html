@@ -121,11 +121,11 @@
               <div class="d-inline-block">
                   <h5 class="card-title">{{ member.name }}</h5>
                   <h6 class="card-subtitle text-muted">{{ member.designation }}</h6>
-                    <!--{% for link in member.links %}
+                    {% for link in member.links %}
                     <a href="{{ link.url }}" class="card-link">
                       <span class="fa fa-{{ link.icon }}"></span>
                     </a>
-                    {% endfor %}-->
+                    {% endfor %}
               </div>
               <div class="d-inline-block pull-right card-image">
                 <img src="assets/img/{{ member.image }}" alt="{{ member.name }}" class="img-fluid">
@@ -140,7 +140,7 @@
     </section>
 
     <footer id="footer">
-        Made with love, by <a href="https://techsyndicate.github.io">Tech Syndicate</a>
+        Made with love, by <a href="https://techsyndicate.github.io" target="_blank">Tech Syndicate</a>
     </footer>
 
   <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
