@@ -1,6 +1,6 @@
 ---
 name: Toyam Khanna
-image: oorjit.jpg
+image: toyam.jpeg
 designation: Designation
 number: 15
 links:
