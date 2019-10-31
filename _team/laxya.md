@@ -1,8 +1,8 @@
 ---
 name: Laxya Pahuja
 image: laxya.jpg
-designation: Designation
-number: 11
+designation: Tech Head
+number: 8
 links:
     -
         icon: facebook-official
