@@ -9,5 +9,5 @@ links:
         url: https://www.facebook.com/suyash.mittal.12?ref=br_rs
     -
         icon: instagram
-        url: https://instagram.com/-suuyash_
+        url: https://instagram.com/_suuyash_
 ---
