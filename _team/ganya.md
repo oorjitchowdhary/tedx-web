@@ -1,8 +1,8 @@
 ---
 name: Ganya Dua
-image: oorjit.jpg
+image: ganya.jpeg
 designation: Designation
-number: 5
+number: 22
 links:
     -
         icon: instagram
