@@ -1,8 +1,8 @@
 ---
 name: Ribhav Sharma
 image: ribhav.jpeg
-designation: Designation
-number: 12
+designation: Tech Head
+number: 9
 links:
     -
         icon: facebook-official
