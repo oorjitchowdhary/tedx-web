@@ -1,8 +1,8 @@
 ---
 name: Antara Goel
 image: antara.jpg
-designation: Art Dept
-number: 8
+designation: Art
+number: 10
 links:
     -
         icon: instagram
