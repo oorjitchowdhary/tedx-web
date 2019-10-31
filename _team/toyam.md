@@ -1,7 +1,7 @@
 ---
 name: Toyam Khanna
 image: toyam.jpeg
-designation: Designation
+designation: Logistics
 number: 13
 links:
     -
