@@ -625,8 +625,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #speakers .card-body img {
   border-radius: 50%;
-  width: 62px;
-  height: 62px;
+  width: 100px;
+  height: 100px;
   display: block;
 }
 
