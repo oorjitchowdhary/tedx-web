@@ -1,6 +1,6 @@
 ---
 name: Avisha Dhiman
-image: oorjit.jpg
+image: avisha.jpg
 designation: Designation
 number: 20
 links:
