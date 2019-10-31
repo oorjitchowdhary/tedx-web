@@ -1,7 +1,7 @@
 ---
 name: Aditya Pathak
 image: aditya.jpg
-designation: Designation
+designation: Logistics
 number: 15
 links:
     -
