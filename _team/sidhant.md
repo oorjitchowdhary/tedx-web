@@ -1,13 +1,10 @@
 ---
 name: Sidhant Mathur
-image: oorjit.jpg
+image: sidhant.jpeg
 designation: Media Head
 number: 7
 links:
     -
-        icon: facebook-official
-        url: #
-    -
         icon: instagram
-        url: #
+        url: https://www.instagram.com/sidhant_mathur
 ---

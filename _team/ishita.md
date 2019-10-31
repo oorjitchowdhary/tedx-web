@@ -1,13 +1,6 @@
 ---
 name: Ishita Karwal
-image: oorjit.jpg
+image: ishita.jpeg
 designation: Art Dept
 number: 9
-links:
-    -
-        icon: facebook-official
-        url: #
-    -
-        icon: instagram
-        url: #
 ---

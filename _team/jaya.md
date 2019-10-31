@@ -1,12 +1,9 @@
 ---
 name: Jaya Jha
-image: oorjit.jpg
-designation: Designation
+image: jaya.jpeg
+designation: Logistics
 number: 18
 links:
-    -
-        icon: facebook-official
-        url: #
     -
         icon: instagram
         url: https://instagram.com/-jayajha-

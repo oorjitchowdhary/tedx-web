@@ -1,6 +1,6 @@
 ---
 name: Dipti Janghu
-image: oorjit.jpg
+image: dipti.jpg
 designation: PR Head
 number: 5
 links:
@@ -10,4 +10,7 @@ links:
     -
         icon: instagram
         url: https://instagram.com/di_p_tiiii
+    -
+        icon: fa-envelope
+        url: mailto:diptijanghu@gmail.com
 ---

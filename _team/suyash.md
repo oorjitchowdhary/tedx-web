@@ -1,7 +1,7 @@
 ---
 name: Suyash Mittal
-image: oorjit.jpg
-designation: Designation
+image: suyash.jpeg
+designation: Logistics
 number: 17
 links:
     -
