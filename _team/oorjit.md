@@ -2,7 +2,7 @@
 name: Oorjit Chowdhary
 image: oorjit.jpg
 designation: Tech
-number: 13
+number: 17
 links:
     -
         icon: facebook-official
