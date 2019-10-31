@@ -11,6 +11,6 @@ links:
         icon: instagram
         url: https://instagram.com/di_p_tiiii
     -
-        icon: fa-envelope
+        icon: envelope
         url: mailto:diptijanghu@gmail.com
 ---
