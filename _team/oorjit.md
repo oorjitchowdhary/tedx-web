@@ -1,7 +1,7 @@
 ---
 name: Oorjit Chowdhary
 image: oorjit.jpg
-designation: G0D
+designation: Tech
 number: 13
 links:
     -
