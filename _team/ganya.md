@@ -2,7 +2,7 @@
 name: Ganya Dua
 image: ganya.jpeg
 designation: Designation
-number: 22
+number: 10
 links:
     -
         icon: instagram
