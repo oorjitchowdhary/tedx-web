@@ -1,7 +1,7 @@
 ---
 name: Ribhav Sharma
 image: ribhav.jpeg
-designation: Designation
+designation: Tech Head
 number: 12
 links:
     -
