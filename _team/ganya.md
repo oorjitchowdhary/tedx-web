@@ -2,7 +2,7 @@
 name: Ganya Dua
 image: ganya.jpeg
 designation: Logistics
-number: 12
+number: 14
 links:
     -
         icon: instagram
