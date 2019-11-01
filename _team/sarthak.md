@@ -1,6 +1,6 @@
 ---
 name: Sarthak Singhal
-image: oorjit.jpg
+image: sarthak.jpeg
 designation: Media Head
 number: 22
 links:
