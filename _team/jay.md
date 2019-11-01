@@ -1,13 +1,6 @@
 ---
 name: Jay Dhari Sinha
-image: oorjit.jpg
+image: jay.png
 designation: Chief Director
 number: 4
-links:
-    -
-        icon: facebook-official
-        url: #
-    -
-        icon: instagram
-        url: #
 ---
