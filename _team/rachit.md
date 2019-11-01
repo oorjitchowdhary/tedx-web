@@ -1,7 +1,7 @@
 ---
 name: Rachit Gupta
 image: rachit.jpg
-designation: Logistics
+designation: Tech
 number: 18
 links:
     -
