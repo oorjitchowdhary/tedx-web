@@ -1,6 +1,6 @@
 ---
 name: Ishita Karwal
 image: ishita.jpeg
-designation: Art
+designation: Creative Head
 number: 11
 ---
