@@ -1,7 +1,7 @@
 ---
 name: Antara Goel
 image: antara.jpg
-designation: Art
+designation: Creative
 number: 10
 links:
     -

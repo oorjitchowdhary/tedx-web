@@ -10,4 +10,7 @@ links:
     -
         icon: instagram
         url: https://instagram.com/laxyapahuja
+    -
+        icon: twitter
+        url: https://twitter.com/laxyapahuja
 ---

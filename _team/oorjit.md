@@ -10,4 +10,7 @@ links:
     -
         icon: instagram
         url: https://instagram.com/oorjitt.c
+    -
+        icon: twitter
+        url: https://twitter.com/oorjitchowdhary
 ---
