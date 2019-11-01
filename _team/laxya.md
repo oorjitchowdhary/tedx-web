@@ -2,7 +2,7 @@
 name: Laxya Pahuja
 image: laxya.jpg
 designation: Tech Head
-number: 8
+number: 10
 links:
     -
         icon: facebook-official

@@ -2,7 +2,7 @@
 name: Toyam Khanna
 image: toyam.jpeg
 designation: Logistics
-number: 13
+number: 16
 links:
     -
         icon: facebook-official

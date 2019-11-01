@@ -1,6 +1,6 @@
 ---
 name: Siddharth Jain
 image: siddharth.jpg
-designation: Media Head
-number: 25
+designation: Marketing Head
+number: 9
 ---

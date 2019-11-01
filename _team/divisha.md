@@ -2,5 +2,5 @@
 name: Divisha Mehta
 image: divisha.jpeg
 designation: Creative
-number: 24
+number: 15
 ---

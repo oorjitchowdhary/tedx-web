@@ -2,7 +2,7 @@
 name: Swati Jha
 image: swati.jpg
 designation: Logistics
-number: 23
+number: 18
 links:
     -
         icon: facebook-official

@@ -2,7 +2,7 @@
 name: Ribhav Sharma
 image: ribhav.jpeg
 designation: Tech Head
-number: 9
+number: 11
 links:
     -
         icon: facebook-official
