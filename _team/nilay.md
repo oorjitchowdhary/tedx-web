@@ -1,13 +1,13 @@
 ---
 name: Nilay Asawa
-image: oorjit.jpg
+image: nilay.jpeg
 designation: Chief Director
 number: 3
 links:
     -
-        icon: facebook-official
-        url: #
-    -
         icon: instagram
-        url: #
+        url: https://instagram.com/asawa.nilay
+    -
+        icon: envelope
+        url: mailto:asawanilay2002@gmail.com
 ---
