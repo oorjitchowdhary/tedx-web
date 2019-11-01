@@ -10,4 +10,7 @@ links:
     -
         icon: instagram
         url: https://instagram.com/rachitt.gg
+    -
+        icon: twitter
+        url: https://twitter.com/rgupta00
 ---
