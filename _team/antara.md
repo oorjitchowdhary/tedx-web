@@ -2,7 +2,7 @@
 name: Antara Goel
 image: antara.jpg
 designation: Creative
-number: 10
+number: 14
 links:
     -
         icon: instagram
