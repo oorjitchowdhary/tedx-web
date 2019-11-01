@@ -1,6 +1,6 @@
 ---
 name: Avisha Dhiman
-image: avisha.jpg
+image: avisha.JPG
 designation: Logistics
 number: 16
 links:
