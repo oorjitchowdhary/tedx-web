@@ -2,7 +2,7 @@
 name: Suyash Mittal
 image: suyash.jpeg
 designation: Logistics
-number: 23
+number: 25
 links:
     -
         icon: facebook-official
