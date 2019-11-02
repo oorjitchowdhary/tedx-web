@@ -1,8 +1,8 @@
 ---
 name: Antara Goel
 image: antara.jpg
-designation: Creative
-number: 14
+designation: Creative Head
+number: 13
 links:
     -
         icon: instagram

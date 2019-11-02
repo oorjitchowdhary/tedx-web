@@ -2,7 +2,7 @@
 name: Paridhi Bisht
 image: paridhi.jpg
 designation: Tech
-number: 13
+number: 15
 links:
     -
         icon: instagram
