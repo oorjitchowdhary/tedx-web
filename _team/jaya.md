@@ -2,7 +2,7 @@
 name: Jaya Jha
 image: jaya.jpeg
 designation: Logistics
-number: 24
+number: 26
 links:
     -
         icon: instagram
