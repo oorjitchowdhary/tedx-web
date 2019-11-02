@@ -2,7 +2,7 @@
 name: Vaibhav Sharma
 image: vaibhav.jpg
 designation: Photographer
-number: 26
+number: 28
 links:
     -
         icon: instagram
