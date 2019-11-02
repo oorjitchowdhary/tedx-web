@@ -2,7 +2,7 @@
 name: Rachit Gupta
 image: rachit.jpg
 designation: Tech
-number: 22
+number: 24
 links:
     -
         icon: facebook-official
