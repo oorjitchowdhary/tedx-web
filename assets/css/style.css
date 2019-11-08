@@ -120,21 +120,20 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 90px;
-  padding: 25px 0;
+  height: 70px;
+  padding: 15px 0;
   transition: all 0.5s;
   z-index: 997;
   top: 0;
   left: 0;
   right: 0;
   position: fixed;
+  background: #000;
 }
 
 #header.header-scrolled,
 #header.header-fixed {
   background: rgb(0, 0, 0);
-  height: 70px;
-  padding: 15px 0;
   transition: all 0.5s;
 }
 
