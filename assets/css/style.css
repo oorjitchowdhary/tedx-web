@@ -760,6 +760,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 }
 
+#members #rita-link {
+  font-size: 15px !important;
+}
+
 #members a:hover {
   color: #e62b1e;
 }
