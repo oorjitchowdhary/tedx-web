@@ -747,7 +747,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 20px;
 }
 
-#members a {
+#members .card-link {
   color: #1b1b1b;
   font-size: 20px;
 }
