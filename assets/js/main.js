@@ -143,5 +143,10 @@ jQuery(document).ready(function( $ ) {
   })
 
 // custom code
+  $("#read-more-btn").toggle(function(){
+    $(this).text("Read less").siblings("#more-text").show();
+  }, function(){
+    $(this).text("Read more").siblings("#more-text").hide();
+  });
 
 });
