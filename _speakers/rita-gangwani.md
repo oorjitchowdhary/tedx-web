@@ -1,7 +1,7 @@
 ---
 name: Rita Gangwani
 profession: Entrepreneur
-image: rita-gangwani.jpg
+image: rita-gangwani.jpeg
 links:
   -
     icon: facebook-official
