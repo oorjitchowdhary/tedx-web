@@ -776,6 +776,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
 }
 
+#members #more-text {
+  display: none;
+}
+
+#members #read-more-btn {
+  color: #e62b1e;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
