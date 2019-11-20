@@ -1,7 +1,7 @@
 ---
 name: Priyam Jain
 profession: AISG-46 Alumni
-image:
+image: priyam-jain.jpg
 links:
   -
     icon: facebook-official
